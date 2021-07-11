@@ -1,4 +1,4 @@
-VeryRealWallets is a mockup of a cryptocurrency wallet API. It is still work in progress and it is mostly unpolished.
+VeryRealWallets is a mockup of a cryptocurrency wallet RESTful API. It is still work in progress and it is mostly unpolished.
 
 All data should be formated in json.
 
